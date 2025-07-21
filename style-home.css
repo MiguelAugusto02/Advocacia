@@ -3,7 +3,7 @@
 }
 
 .principal {
-	background: #896540; 
+	background: #CCCCCC; 
 	padding: 30px;
 }
 
@@ -40,7 +40,7 @@ em strong {
 }
 
 .beneficios {
-	background: #ae8760;
+	background: #FFFFFFFF;
 	padding: 20px;
 }
 
@@ -57,7 +57,7 @@ em strong {
 }
 
 header {
-	background: #ae8760; 
+	background: #bbb; 
 }
 
 .caixa {
