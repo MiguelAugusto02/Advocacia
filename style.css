@@ -158,8 +158,8 @@ nav a:hover {
 }
 
 .itens::before {
-    content: "#";
     background-color: #000; 
+    content: "#";
 }
 
 .imagem-beneficios {
