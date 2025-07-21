@@ -157,8 +157,7 @@ nav a:hover {
     font-weight: bold;
 }
 
-.itens::before {
-    background-color: #000; 
+.itens:before { 
     content: "#";
 }
 
