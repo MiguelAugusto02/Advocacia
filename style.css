@@ -157,7 +157,7 @@ nav a:hover {
     font-weight: bold;
 }
 
-.itens:before {
+.itens {
     content: "#";
 }
 
