@@ -1,3 +1,12 @@
+:root{
+    --cor-principal: #654521;
+    --cor-escuro: #896540;
+    --cor-café: #ae8760;
+    --cor-claro: #d5ab82;
+    --cor-muitoclaro: #fcd0a6;
+    --cor-branco:#FFFFFF;          
+}
+
 body {
     font-family: 'Montserrat', sans-serif;
 }
@@ -196,7 +205,7 @@ form input {
 
 footer {
     text-align: center;
-    background: url("img/bg.jpg");
+    background: var(--cor-principal);
     padding: 40px 0;
 }
 
@@ -305,13 +314,7 @@ background:
 principal p:not(#missao){
 background: 
 }
-:root{
-    --cor-principal: #654521;
-    --cor-escuro: #896540;
-    --cor-café: #ae8760;
-    --cor-claro: #d5ab82;
-    --cor-muitoclaro: #fcd0a6;
-    --cor-branco:#FFFFFF;          
-}
+
 
 */
+
