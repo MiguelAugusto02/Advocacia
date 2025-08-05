@@ -209,7 +209,7 @@ footer {
 .enviar {
     width: 40%;
     padding: 15px 0;
-    background: orange;
+    background: #896540;
     color: white;
     font-weight: bold;
     font-size: 18px;
@@ -313,4 +313,5 @@ background:
     --cor-muitoclaro: #fcd0a6;
     --cor-branco:#FFFFFF;          
 }
+
 */
