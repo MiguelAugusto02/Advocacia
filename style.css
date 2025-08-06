@@ -262,7 +262,7 @@ th {
 .mapa-conteudo {
     width: 940px;
     margin: 0 auto;
-    justufy-content: center;
+    justify-content: center;
     align-items: center;
 }
 
@@ -319,5 +319,6 @@ background:
 
 
 */
+
 
 
