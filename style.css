@@ -195,13 +195,11 @@ form input {
 .input-padrao {
     display: block;
     margin: 0 0 20px;
-    padding: 10px 25px;
-    width: 50%;
 }
 
 .formulario{
       
-    margin: 0 auto;
+    margin: 0 30%;
     justify-content: center;
     align-items: center;
 }
