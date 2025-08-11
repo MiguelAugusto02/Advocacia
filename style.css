@@ -307,7 +307,7 @@ th {
 
 
 .preco {
-    color: black;
+  font-weight: bold; 
 }
 
 /*SELETORES ESPECIAIS
