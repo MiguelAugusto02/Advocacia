@@ -199,6 +199,13 @@ form input {
     width: 50%;
 }
 
+.formulario{
+      
+    margin: 0 auto;
+    justify-content: center;
+    align-items: center;
+}
+
 .checkbox {
     margin: 20px 0;
 }
