@@ -4,7 +4,7 @@
     --cor-café: #ae8760;
     --cor-claro: #d5ab82;
     --cor-muitoclaro: #fcd0a6;
-    --cor-branco:#FFFFFF;          
+    --cor-branco: #FFFFFF;
 }
 
 body {
@@ -144,7 +144,7 @@ nav a:hover {
 
 .beneficios {
     padding: 3em 0;
-    background: #ae8760; 
+    background: #ae8760;
 }
 
 .conteudo-beneficios {
@@ -166,7 +166,7 @@ nav a:hover {
     font-weight: bold;
 }
 
-.itens:before { 
+.itens:before {
     content: "-";
 }
 
@@ -197,9 +197,15 @@ form input {
     margin: 0 0 20px;
 }
 
+<<<<<<< HEAD
+.formulario {
+
+    margin: 0 auto;
+=======
 .formulario{
       
     margin: 0 30%;
+>>>>>>> 99ce381ca24193a3a287ac5dbf735139d75511e2
     justify-content: center;
     align-items: center;
 }
@@ -234,7 +240,7 @@ footer {
 }
 
 .enviar:hover {
-    background:#896540;
+    background: #896540;
     transform: scale(1.2);
 }
 
@@ -302,6 +308,11 @@ th {
     }
 }
 
+
+.preco {
+    color: black;
+}
+
 /*SELETORES ESPECIAIS
 main p {
 background:
@@ -324,8 +335,3 @@ background:
 
 
 */
-
-
-
-
-
