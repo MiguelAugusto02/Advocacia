@@ -197,15 +197,12 @@ form input {
     margin: 0 0 20px;
 }
 
-<<<<<<< HEAD
-.formulario {
 
-    margin: 0 auto;
-=======
+
 .formulario{
       
     margin: 0 30%;
->>>>>>> 99ce381ca24193a3a287ac5dbf735139d75511e2
+
     justify-content: center;
     align-items: center;
 }
