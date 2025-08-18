@@ -16,7 +16,7 @@
 
 .titulo-principal {
 	padding-left: 20px;
-	height: 15vw;
+	height: 10vw;
 }
 
 .titulo-centralizado {
@@ -87,4 +87,5 @@ nav a {
 	font-weight: bold;
 	font-size: 22px;
 	text-decoration: none;
+
 }
