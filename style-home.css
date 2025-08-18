@@ -15,8 +15,8 @@
 }
 
 .titulo-principal {
-	padding-left: 20px;
-	height: 10vw;
+	padding-left: 0px;
+	height: 6vw;
 }
 
 .titulo-centralizado {
@@ -89,3 +89,4 @@ nav a {
 	text-decoration: none;
 
 }
+
