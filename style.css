@@ -193,7 +193,7 @@ form input {
 }
 
 .input-padrao {
-    display: block;
+    display: inline-block;
     margin: 0 0 20px;
 }
 
@@ -334,4 +334,5 @@ background:
 
 
 */
+
 
