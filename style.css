@@ -186,10 +186,10 @@ form legend {
 }
 
 form input {
-    display: block;
+    display: inline-block;
     margin: 0 0 20px;
     padding: 10px 25px;
-    width: 50%;
+    width: auto;
 }
 
 .input-padrao {
@@ -201,7 +201,7 @@ form input {
 
 .formulario{
       
-    margin: 0 30%;
+    margin: 0 50%;
 
     justify-content: center;
     align-items: center;
