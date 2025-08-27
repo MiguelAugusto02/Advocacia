@@ -1,3 +1,6 @@
+@import url(/styles/footer.css);
+@import url(/styles/header.css);
+
 :root{
     --cor-principal: #654521;
     --cor-escuro: #896540;
@@ -11,10 +14,6 @@ body {
     font-family: 'Montserrat', sans-serif;
 }
 
-header {
-    background: #ae8760;
-    padding: 20px 0;
-}
 
 .banner {
     width: 100%;
@@ -64,35 +63,8 @@ header {
     opacity: 0.3;
 }
 
-.caixa {
-    position: relative;
-    width: 1200px;
-    margin: 0 auto;
-}
 
-nav {
-    position: absolute;
-    top: 60px;
-    right: 0;
-}
 
-nav li {
-    display: inline;
-    margin: 0 0 0 15px;
-}
-
-nav a {
-    text-transform: uppercase;
-    color: #000;
-    font-weight: bold;
-    font-size: 22px;
-    text-decoration: none;
-}
-
-nav a:hover {
-    color: #C78C19;
-    text-decoration: underline;
-}
 
 .produtos {
     width: 940px;
@@ -211,17 +183,9 @@ form input {
     margin: 20px 0;
 }
 
-footer {
-    text-align: center;
-    background: var(--cor-principal);
-    padding: 40px 0;
-}
 
-.copyright {
-    color: #FFFFFF;
-    font-size: 13px;
-    margin: 20px 0 0;
-}
+
+
 
 .enviar {
     width: 40%;
