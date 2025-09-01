@@ -47,7 +47,11 @@ nav a {
 nav a:hover {
     color: #C78C19;
     text-decoration: underline;
-}
+} 
+
+ nav ul {
+        display: grid;
+    }
 
 /*Configurações do Tablet (telas medias)*/
 @media screen and (min-width: 480px) {
@@ -55,16 +59,14 @@ nav a:hover {
         display: flex;
     } 
 
-    nav ul {
-        display: grid;
-    }
+   
 }
 
 /*Configurações do Desktop*/
-@media screen and (max-width: 1080px) {
-    #nome_empresa{
-    display:inline;
+@media screen and (min-width: 1080px) {
+    
 }
-}
+
+
 
     
