@@ -10,7 +10,7 @@ header {
 }
 
 .logo{
-    display: none;
+    display: flex;
     align-items: center;
     font-size: 1.5em;
     font-weight: bold;
@@ -55,7 +55,7 @@ nav a:hover {
 
 /*Configurações do Tablet (telas medias)*/
 @media screen and (min-width: 480px) {
-    .logo{
+    #nome_empresa{
         display: flex;
     } 
 
