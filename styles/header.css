@@ -17,8 +17,8 @@ header {
 }
 
 .header-logo{
-    width: 90px;
-    margin-right: 10px;
+    width: 50px;
+    margin-right: 5px;
 }
 
 #nome_empresa{
@@ -58,7 +58,10 @@ nav a:hover {
     #nome_empresa{
         display: flex;
     } 
-
+.header-logo{
+    width: 90px;
+    margin-right: 10px;
+}
    
 }
 
