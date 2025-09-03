@@ -3,10 +3,6 @@ header {
     padding: 20px 0;
 }
 
-.banner {
-    width: 100%;
-}
-
 .caixa {
    display: flex;
    justify-content: space-between;
@@ -66,11 +62,11 @@ nav ul {
         display: flex;
     }
 
+@media screen and (min-width: 645px) {
     nav ul {
-        display: inline;
+          display: inline;
     }
-
-
+}
 
 }
 

@@ -31,9 +31,10 @@
 } 
 
 /*Config.tablet*/
-@media screen {
+@media screen and (min-width: 480px) {
     
 }
+
 
 /*Configurações do Desktop*/
 @media screen and (min-width: 1080px) {

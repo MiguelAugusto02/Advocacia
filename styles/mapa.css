@@ -9,9 +9,15 @@
 }
 
 .mapa-conteudo {
-    width: 600px;
+    width: auto;
     margin: 0 auto;
     display: flex;
     justify-content: center;
     align-items: center;
+} 
+
+@media screen {
+    .mapa-conteudo{
+        width: 940px;
+    }
 }
