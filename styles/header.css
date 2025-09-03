@@ -34,7 +34,6 @@ header {
 }
 
 nav {
-    position: absolute;
     top: 60px;
     right: 0;
 }
@@ -80,4 +79,9 @@ nav ul {
     .caixa {
         width: 940px;
     }
+
+    .header-logo {
+    width: 250px;
+    margin-right: 10px;
+}
 }
