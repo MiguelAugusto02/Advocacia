@@ -3,14 +3,18 @@ header {
     padding: 20px 0;
 }
 
-.banner{
+.banner {
     width: 100%;
 }
 
 .caixa {
-    position: relative;
-    width: 1200px;
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   position: relative;
+    width: 940px;
     margin: 0 auto;
+
 }
 
 .logo {
@@ -67,7 +71,13 @@ nav ul {
         display: inline;
     }
 
+
+
 }
 
 /*Configurações do Desktop*/
-@media screen and (min-width: 1080px) {}
+@media screen and (min-width: 1080px) {
+    .caixa {
+        width: 940px;
+    }
+}
