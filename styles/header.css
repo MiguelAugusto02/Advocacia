@@ -61,13 +61,12 @@ nav ul {
     #nome_empresa {
         display: flex;
     }
+}
 
 @media screen and (min-width: 645px) {
     nav ul {
-          display: inline;
-    }
-}
-
+    display: inline;
+    }     
 }
 
 /*Configurações do Desktop*/
@@ -79,5 +78,5 @@ nav ul {
     .header-logo {
     width: 250px;
     margin-right: 10px;
-}
+    }
 }

@@ -27,8 +27,6 @@
     content: "-";
 }
 
-
-
 .imagembeneficios {
     width: 60%;
     opacity: 1;
@@ -56,17 +54,15 @@
 
     .imagem-beneficios {
      width: 60%;
-} 
+    } 
 
 } 
 
-    @media screen and (min-width:1080px){
+ @media screen and (min-width:1080px){
         .conteudo-beneficios {
        width: 640px;
     }
-
-.video {
+    .video {
     width:560px;
-
-}
     }
+}
