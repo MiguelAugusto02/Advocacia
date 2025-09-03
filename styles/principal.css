@@ -8,7 +8,7 @@
 .principal {
     padding: 3em 0;
     background: #FEFEFE;
-    width: 940px;
+    width: auto;
     margin: 0 auto;
 }
 
@@ -28,4 +28,11 @@
     width: calc(40% - 26%);
     float: left;
     margin: 0 20px 20px 0;
+} 
+
+/*Configurações do Desktop*/
+@media screen and (min-width: 1080px) {
+    .principal{
+        width:940px;
+    }
 }
