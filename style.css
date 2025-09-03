@@ -25,7 +25,7 @@ body {
 .banner {
     width: 100%;
 }
-
+/*
 @media screen and (max-width: 480px) {
 
     .caixa,
@@ -50,7 +50,7 @@ body {
 }
 
 
-/*SELETORES ESPECIAIS
+SELETORES ESPECIAIS
 main p {
 background:
 }
