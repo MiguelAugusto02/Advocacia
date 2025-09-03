@@ -71,7 +71,6 @@ nav a:hover {
         display: inline;
     }
 }
-
 /*Configurações do Desktop*/
 @media screen and (min-width: 1080px) {
     .caixa {
