@@ -9,19 +9,19 @@ header {
     margin: 0 auto;
 }
 
-.logo{
+.logo {
     display: flex;
     align-items: center;
     font-size: 1.5em;
     font-weight: bold;
 }
 
-.header-logo{
-    width: 50px;
-    margin-right: 5px;
+.header-logo {
+    width: 90px;
+    margin-right: 10px;
 }
 
-#nome_empresa{
+#nome_empresa {
     display: none;
 }
 
@@ -47,29 +47,23 @@ nav a {
 nav a:hover {
     color: #C78C19;
     text-decoration: underline;
-} 
+}
 
- nav ul {
-        display: grid;
-    }
+nav ul {
+    display: grid;
+}
 
 /*Configurações do Tablet (telas medias)*/
 @media screen and (min-width: 480px) {
-    #nome_empresa{
+    #nome_empresa {
         display: flex;
-    } 
-.header-logo{
-    width: 90px;
-    margin-right: 10px;
-}
-   
+    }
+
+    nav ul {
+        display: inline;
+    }
+
 }
 
 /*Configurações do Desktop*/
-@media screen and (min-width: 1080px) {
-    
-}
-
-
-
-    
+@media screen and (min-width: 1080px) {}
