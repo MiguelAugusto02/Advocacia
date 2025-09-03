@@ -10,6 +10,7 @@
 }
 
 .lista-beneficios {
+    list-style: none;
     width: 40%;
     display: inline-block;
     vertical-align: top;
@@ -58,8 +59,8 @@
 
 } 
 
- @media screen and (min-width:1080px){
-        .conteudo-beneficios {
+@media screen and (min-width:1080px){
+   .conteudo-beneficios {
        width: 640px;
     }
     .video {
