@@ -1,6 +1,6 @@
 .mapa {
     padding: 3em 0;
-    background-color: linear-gradient(#FEFEFE, #888888);
+    background-color: linear-gradient(#FEFEFE);
 }
 
 .mapa p {
@@ -16,8 +16,8 @@
     align-items: center;
 } 
 
-@media screen {
-    .mapa-conteudo{
+@media screen and (min-width: 1080px) {
+    .mapa-conteudo {
         width: 940px;
     }
 }
