@@ -62,9 +62,9 @@
 } 
 
     @media screen and (min-width: 480px) {
-        
+
 .video {
-    width: auto;
+    width: 940px;
 
 }
     }
