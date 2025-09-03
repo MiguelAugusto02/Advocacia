@@ -1,14 +1,15 @@
+/* Estilização para telas menores */
 header {
     background: #ae8760;
     padding: 20px 0;
 }
 
 .caixa {
-   display: flex;
-   justify-content: space-between;
-   align-items: center;
-   position: relative;
-    width:auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: relative;
+    width: auto;
     margin: 0 auto;
 
 }
@@ -30,8 +31,12 @@ header {
 }
 
 nav {
-    top: 60px;
+    top: 110px;
     right: 0;
+}
+
+nav ul {
+    display: grid;
 }
 
 nav li {
@@ -52,9 +57,7 @@ nav a:hover {
     text-decoration: underline;
 }
 
-nav ul {
-    display: grid;
-}
+
 
 /*Configurações do Tablet (telas medias)*/
 @media screen and (min-width: 480px) {
@@ -65,8 +68,8 @@ nav ul {
 
 @media screen and (min-width: 645px) {
     nav ul {
-    display: inline;
-    }     
+        display: inline;
+    }
 }
 
 /*Configurações do Desktop*/
@@ -75,8 +78,4 @@ nav ul {
         width: 940px;
     }
 
-    .header-logo {
-    width: 250px;
-    margin-right: 10px;
-    }
 }
