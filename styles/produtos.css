@@ -32,6 +32,10 @@
 
 .produtos li:hover h2 {
     font-size: 34px;
+} 
+
+.imagem-produto {
+    width: 250px;
 }
 
 .produto-descricao {
@@ -44,7 +48,3 @@
     margin-top: 10px;
 }
 
-.preco {
-    font-weight: bold;
-    text-align: center;
-}
