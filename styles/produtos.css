@@ -49,6 +49,6 @@
 }
 
 .preco{
-    align-items: center;
+    box-align: center;
     font-weight: bold;
 }
