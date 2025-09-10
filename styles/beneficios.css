@@ -4,12 +4,12 @@
     background: #ae8760;
 }
 
-.conteudo-beneficios { 
+.conteudo-beneficios {
     display: flex;
     flex-direction: column;
-    width: 0 auto;
+    width: auto;
+    align-items: center;
 }
-
 .lista-beneficios {
     list-style: none;
     width: 40%;
