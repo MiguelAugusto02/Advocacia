@@ -4,9 +4,10 @@
     background: #ae8760;
 }
 
-.conteudo-beneficios {
+.conteudo-beneficios { 
+    display: flex;
     flex-direction: column;
-    width: auto;
+    width: 0 auto;
 }
 
 .lista-beneficios {
